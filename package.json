@@ -9,7 +9,7 @@
         "report": "npm run build -report"
     },
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "core-js": "^3.6.4",
         "cover-axios": "^0.1.6",
         "echarts": "^4.6.0",
